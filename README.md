@@ -7,6 +7,9 @@ Link: https://developer.ibm.com/blogs/2021-call-for-code-launch/
 
 # My Approach
 
+![Screenshot (1610)](https://user-images.githubusercontent.com/73738414/142976094-53072fc5-31ff-4219-b977-bf5f877b675a.png)
+
+
 ## Problem:
 
 Research suggests that over the past 75 years, flowers have also adapted to rising temperatures and declining ozone by altering ultraviolet (UV) pigments in their petals.
