@@ -24,8 +24,12 @@ On average, pigment in flowers at all locations increased over time—an average
 Pollen hidden within petals is naturally shielded from UV exposure, but this extra shielding can also act like a greenhouse, trapping heat. When these flowers are exposed to higher temperatures, their pollen is in danger of being cooked, he says. Reducing UV pigments in the petals causes them to absorb less solar radiation, bringing down temperatures.
 
 ## Solution: 
-
-Convolutional neural networks (CNNs) are achieving great performance in several computer vision tasks, Here I propose a robust and generalizable CV-based system for automatically detecting depigmentation in various species in satellite and aerial images based on open data and tools. In particular, we designed a three-step approach, where the first CV finds the input images with change in color presence, the second CV provides a comparison to its original color and the third CV measures the intensity of UV in pollen. 
+```diff
+- Convolutional neural networks (CNNs) are achieving great performance in several computer vision tasks, Here I propose a robust
+- and generalizable CV-based system for - automatically detecting depigmentation in various species in satellite and aerial images
+- based on open data and tools. In particular, we designed a three-step approach, where the first CV finds the input images with
+- change in color presence, the second CV provides a comparison to its original color and the third CV measures the intensity of UV in pollen. 
+```
 
 ## How Is This Better: 
 
